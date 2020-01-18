@@ -3,6 +3,10 @@
 def speak_to_grandma(prase)
  if prase == "I LOVE YOU GRANDMA!"
    puts "I LOVE YOU TOO PUMPKIN!"
+ elsif prase == prase.upcase
+ puts "NO, NOT SINCE 1938!"
+ else
+   puts "HUH?! SPEAK UP, SONNY!"
 end 
 end
 
