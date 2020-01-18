@@ -5,10 +5,7 @@ def speak_to_grandma(variable)
   If "#{variable}" == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
   
-  elsif 
-  puts ""
-  
-  else
+ 
 end 
 end
 
