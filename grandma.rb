@@ -1,3 +1,4 @@
+require_ relative .. /spec/grandma.rb
 # Write a speak_to_grandma method.
 def speak_to_grandma(variable)
   
