@@ -4,7 +4,6 @@ def speak_to_grandma(prase)
   
   If prase.upcase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else 
  
 
  
