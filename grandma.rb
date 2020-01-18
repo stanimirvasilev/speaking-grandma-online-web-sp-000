@@ -2,7 +2,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(prase)
   
-  If prase == "I LOVE YOU GRANDMA!".upcase?
+  If prase.upcase
   puts "I LOVE YOU TOO PUMPKIN!"
 else 
   puts "HUH?! SPEAK UP, SONNY!"
