@@ -1,11 +1,14 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma()
   
-  If
+  If "I LOVE YOU GRANDMA!" == "I LOVE YOU GRANDMA!".upcase
+  puts ""
+  
+  
   elsif
 else
 end 
-
+end
 
 
 
