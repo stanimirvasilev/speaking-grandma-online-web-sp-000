@@ -2,7 +2,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(prase)
  if prase == "I LOVE YOU GRANDMA!"
-   print "I LOVE YOU TOO PUMPKIN!"
+   puts "I LOVE YOU TOO PUMPKIN!"
  elsif prase == prase.upcase
  puts "NO, NOT SINCE 1938!"
  else
