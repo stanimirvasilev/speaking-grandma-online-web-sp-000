@@ -1,6 +1,6 @@
 
 # Write a speak_to_grandma method.
-def speak_to_grandma(variable)
+def speak_to_grandma("I LOVE YOU GRANDMA!")
   
   If "#{variable}" == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
